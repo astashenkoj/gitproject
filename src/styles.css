@@ -1,10 +1,10 @@
-h1 {
-    color: green;
-    background: black;
-}
-
 div {
     background: blue;
     color: white;
     max-width: 1200px
+}
+
+span {
+    color: red;
+    border: 1px solid blue;
 }
